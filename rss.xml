@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Nikola Timotic | Portfolio</title>
+        <link>https://timoticnikola.github.io/</link>
+        <description>Portfolio</description>
+        <language>en</language>
+        <copyright>Copyright 2021 Nikola Timotic</copyright>
+        <category>Portfolio</category>
+        <image>
+            <url>https://timoticnikola.github.io/img/logo-rss.png</url>
+            <title>Nikola Timotic | Portfolio</title>
+            <link>https://timoticnikola.github.io/</link>
+        </image>
+        <item>
+            <title>Portfolio</title>
+            <link>https://timoticnikola.github.io/</link>
+            <description>Hi, my name is Nikola. I’m a Web Developer located in Serbia. I have a passion for UI and UX design. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time. I'm a very well-organized person and problem solver.</description>
+            <pubDate>Wed, 03 Mar 2021 00:08:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Portfolio | Project</title>
+            <link>https://timoticnikola.github.io/#projects</link>
+            <description>This is fully responsive and interactive photography website project for photography model Peter.</description>
+            <pubDate>Wed, 03 Mar 2021 00:08:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
